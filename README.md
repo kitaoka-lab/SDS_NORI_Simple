@@ -20,7 +20,7 @@ $ sudo apt install open-jtalk
 `$ python NORI_Base.py -i julius -o jtalk -a test`
 
 ## 設定
-### google 恩師認識を使うとき
+### google 音声認識を使うとき
 以下URLの，１〜３を参考にして，APIキー入りの `.json` ファイルをダウンロード．  
 https://qiita.com/egplnt/items/802de5fd0f36f1af3268  
   
